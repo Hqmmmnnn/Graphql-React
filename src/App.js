@@ -4,9 +4,6 @@ import Post from "./Posts/Post";
 import Posts from "./Posts/Posts";
 import NewPost from "./Posts/NewPost";
 
-
-
-
 class App extends Component {
   render() {
     return (
